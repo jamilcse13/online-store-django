@@ -11,6 +11,9 @@
     - for this we need to add some codes and extensions in project's settings.py
     - allowing hosts will be declared at ALLOWED_HOSTS
 
+* media:
+    - we added *media* directory at the root of the project and setup settings and urls
+    - here we stored images, audios, videos and each type of media files
 
 #### some key point:
 - [CORS] (https://www.educative.io/edpresso/how-cors-cross-origin-resource-sharing-works) (Cross-Origin Resource Sharing)
