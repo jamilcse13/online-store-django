@@ -18,3 +18,6 @@
 #### some key point:
 - [CORS](https://www.educative.io/edpresso/how-cors-cross-origin-resource-sharing-works) (Cross-Origin Resource Sharing)
     - This allows in-browser requests to your Django application from other origins.
+- [Pillow](https://pypi.org/project/Pillow/)
+    - Python Imaging Library
+    - 
